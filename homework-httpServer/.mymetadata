@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="homework-httpServer"
+  id="myeclipse.1548745215360"
+  context-root="/homework-httpServer"
+  j2ee-spec="1.7"
+  archive="homework-httpServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
